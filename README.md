@@ -1,7 +1,9 @@
 # calculation_edu
 自动出口算题的程序
 
-```python calculation_practice.py
+> python calculation_practice.py
+
+```
 19 - 7 = 	6 - 3 = 	12 - 8 = 	4 + 16 =
 17 - 5 = 	19 + 1 = 	3 + 3 = 	13 + 6 =
 13 + 3 = 	18 - 13 = 	9 - 9 = 	5 - 1 =
